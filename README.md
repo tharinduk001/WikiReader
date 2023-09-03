@@ -45,10 +45,7 @@ You can install the software without running any python code and directly instal
 
 
 ### Screenshots
-
-![App Screenshot](https://drive.google.com/file/d/1chTJ2z2oXk0B0gpf3KBl9WFGfgIOd8ux/view?usp=sharing)
-
-
+![Screenshot 2023-09-03 184155](https://github.com/tharinduk001/WikiReader/assets/136310961/d4fdb284-c043-4f17-9cde-76b944cf2111)
 
 ## Authors
 
